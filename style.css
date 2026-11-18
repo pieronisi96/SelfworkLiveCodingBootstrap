@@ -1,0 +1,102 @@
+p {
+    color: white;
+}
+
+h2, h3 {
+    color: white;
+}
+
+span {
+    font-weight: bold;
+}
+
+.h3 {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+
+.prima-sezione {
+
+    min-height: 90vh;
+    background-image: url(./img/bg-1.jpg);
+    background-size: cover;
+    
+}
+
+.logo-aulab {
+    width: 100px;
+    height: 40px;
+}
+
+.seconda-sezione {
+    min-height: 50vh;
+    background-color: #1b1540;
+    background-size: cover;
+}
+
+.terza-sezione {
+    min-height: 80vh;
+    background-image: url(./img/bg-2.jpg);
+    background-size: cover;
+}
+
+.form-iscrizione {
+    background-color: #1b1540; /* Viola scuro della card */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.btn-aulab {
+
+    background-color: #f3e014;
+    color: black;
+    border: none;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+
+}
+
+.custom-input {
+    background-color: transparent !important;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: #ffffff !important;
+    border-radius: 6px;
+    padding: 0.65rem 0.9rem;
+}
+
+.custom-input:focus {
+    border-color: #f3e014;
+    box-shadow: 0 0 0 0.2rem rgba(243, 224, 20, 0.25);
+}
+
+.quarta-sezione {
+    
+    background-color: #1b1540;
+    background-size: cover;
+}
+
+.img-aulab {
+    max-width: 280px;
+}
+
+.h3-quarta-sezione {
+    color: #f3e014;
+}
+
+.quinta-sezione {
+
+    background-image: url(./img/bg-3.jpg);
+    background-size: cover;
+
+}
+
+.img-marco-insabato {
+    max-width: 300px;
+}
+
+footer {
+    background-color: black;
+    min-height: 1vh;
+}
